@@ -1,0 +1,46 @@
+{
+  "newsTicker": "Important Update: Admissions open for the current academic year. Contact the front desk for details.",
+  "posters": [
+    {
+      "id": 1,
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&q=80&w=1600&h=600"
+    }
+  ],
+  "cbseDocuments": {
+    "affiliation": "",
+    "trust": "",
+    "noc": "",
+    "recognition": "",
+    "buildingSafety": "",
+    "fireSafety": "",
+    "healthSanitation": "",
+    "feeStructure": ""
+  },
+  "quickLinks": [
+    {
+      "id": 1772434561320,
+      "title": "Admission Forms",
+      "description": "Download forms for the new academic session.",
+      "url": "#"
+    },
+    {
+      "id": 1772434561321,
+      "title": "Fee Structure",
+      "description": "View the detailed fee breakdown for all classes.",
+      "url": "/cbse-disclosure"
+    },
+    {
+      "id": 1772434561322,
+      "title": "Academic Calendar",
+      "description": "Get important dates and events for the year.",
+      "url": "#"
+    },
+    {
+      "id": 1772434561323,
+      "title": "Contact Us",
+      "description": "Reach out to the administration for queries.",
+      "url": "/about"
+    }
+  ]
+}
