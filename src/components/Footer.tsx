@@ -8,12 +8,16 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">St. Theresa Don Bosco School</h3>
             <p className="text-gray-400">Providing quality education and holistic development since our founding.</p>
+            <p className="text-gray-500 text-sm mt-3">Betul, Madhya Pradesh, India</p>
           </div>
           <div>
             <h3 className="text-xl font-bold mb-4">Quick Links</h3>
             <ul className="space-y-2">
               <li><Link href="/" className="text-gray-400 hover:text-white transition-colors">Home</Link></li>
               <li><Link href="/about" className="text-gray-400 hover:text-white transition-colors">About Us</Link></li>
+              <li><Link href="/academics" className="text-gray-400 hover:text-white transition-colors">Academics</Link></li>
+              <li><Link href="/admissions" className="text-gray-400 hover:text-white transition-colors">Admissions</Link></li>
+              <li><Link href="/gallery" className="text-gray-400 hover:text-white transition-colors">Gallery</Link></li>
               <li><Link href="/admin" className="text-gray-400 hover:text-white transition-colors">Admin Panel</Link></li>
             </ul>
           </div>
@@ -21,7 +25,7 @@ export default function Footer() {
             <h3 className="text-xl font-bold mb-4">Mandatory Disclosures</h3>
             <ul className="space-y-2">
               <li>
-                <Link href="/important-documents" className="text-primary-light hover:text-white font-semibold transition-colors">
+                <Link href="/cbse-disclosure" className="text-primary-light hover:text-white font-semibold transition-colors">
                   CBSE Mandatory Disclosure
                 </Link>
               </li>
